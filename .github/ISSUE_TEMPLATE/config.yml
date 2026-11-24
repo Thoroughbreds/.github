@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Product support
+    url: https://www.thoroughbreds.ai/help
+    about: Help guides, or email support@thoroughbreds.ai. Please don't use GitHub issues for support.
+  - name: Report a security vulnerability
+    url: https://github.com/Thoroughbreds/.github/blob/main/SECURITY.md
+    about: Report privately by email. Please don't open a public issue.
